@@ -31,6 +31,7 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
+	cout << "Yay, eg er ad gera hluti"
 	int val;
 	do
 	{
